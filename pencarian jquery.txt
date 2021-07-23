@@ -1,0 +1,6 @@
+live search adalah pencarian instan ketika kita mencari data berdasarkan keyword tertentu ketika kolom pencarian diisi otomatis dilakukan proses ajax ke suatu sumber dan sumber tersebut akan mengembalikan hasil pencariannya.
+
+jquery adalah sebuah libray javascript
+
+(penting)
+pemanggilan jquery dilakaukan sebelum memeanggil pemanggilan script punya kita
